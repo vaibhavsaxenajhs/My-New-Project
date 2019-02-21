@@ -1,0 +1,33 @@
+{
+  "name": "assingment3",
+  "version": "1.0.0",
+  "description": "assingment@jugnoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apikeygen": "^1.1.0",
+    "bcrypt": "^3.0.3",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0",
+    "node-modules": "^1.0.1",
+    "nodemailer": "^5.1.1",
+    "socket.io": "^2.2.0",
+    "socketio": "^1.0.0",
+    "swagger": "^0.7.5",
+    "swagger-ui-express": "^4.0.2",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "@types/underscore": "^1.8.9"
+  }
+}
