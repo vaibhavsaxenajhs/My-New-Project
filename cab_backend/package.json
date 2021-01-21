@@ -21,7 +21,7 @@
     "mysql": "^2.16.0",
     "node-modules": "^1.0.1",
     "nodemailer": "^5.1.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socketio": "^1.0.0",
     "swagger": "^0.7.5",
     "swagger-ui-express": "^4.0.2",
