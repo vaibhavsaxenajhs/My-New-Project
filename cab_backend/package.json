@@ -25,7 +25,7 @@
     "socketio": "^1.0.0",
     "swagger": "^0.7.5",
     "swagger-ui-express": "^4.0.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@types/underscore": "^1.8.9"
